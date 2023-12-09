@@ -1,4 +1,5 @@
-# Puppet script that sets up your web servers for the deployment of web_static
+# Puppet script that sets up your web servers for 
+# the deployment of web_static
 
 package { 'nginx':
   ensure   => 'present',
